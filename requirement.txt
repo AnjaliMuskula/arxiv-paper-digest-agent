@@ -1,0 +1,12 @@
+streamlit
+langgraph
+requests
+feedparser
+pymupdf
+pytesseract
+pillow
+sentence-transformers
+chromadb
+rank-bm25
+google-genai
+python-dotenv
