@@ -170,6 +170,7 @@ arxiv-agent/
 * Git
 * Internet connection
 * A Gemini API key
+*  add gemini apy key in --> .env
 
 ---
 
